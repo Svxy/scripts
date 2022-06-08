@@ -1,5 +1,3 @@
-{{ content }}
-
 <h1 align=center>TnyavnTo - Scripts</h1>
 
 <br>
