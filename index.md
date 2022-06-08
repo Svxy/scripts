@@ -7,16 +7,16 @@
 <br><br>
 
 <p align=center>
-    <img src='https://github.com/Svxy/imgs/blob/main/icon.png?raw=true' alt='Github Couldnt Load The Image'>
+    <img src='https://github.com/Svxy/imgs/blob/main/icon.png?raw=true' alt='Github Couldnt Load The Image' class='logo'>
 </p>
 
 <br><br>
 
 <p align=center>
 <ul>
-    <li><a href='./python' target='_blank'>Python</a></li>
-    <li><a href='./javascript' target='_blank'>JavaScript</a></li>
-    <li><a href='./batch' target='_blank'>Windows Batch</a></li>
+    <li><a href='./python'>Python</a></li>
+    <li><a href='./javascript'>JavaScript</a></li>
+    <li><a href='./batch'>Windows Batch</a></li>
 </ul>
 </p>
 
