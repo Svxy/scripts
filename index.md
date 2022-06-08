@@ -7,7 +7,7 @@
 <br><br>
 
 <p align=center>
-    <img src='https://github.com/Svxy/imgs/blob/main/icon.png?raw=true' alt='Github Couldnt Load The Image' class='logo'>
+    <img src='https://github.com/Svxy/imgs/blob/main/icon.png?raw=true' alt='Github Couldnt Load The Image'>
 </p>
 
 <br><br>
