@@ -1,9 +1,3 @@
-<style>
-    
-</style>
-
-<br><br>
-
 <h1 align=center>Javascript - TnyavnTo</h1>
 
 <br>
@@ -25,9 +19,13 @@
 <!-- 1. -->
 
 <p align=center>
-    ```batch
-    :: Test 1
-    ```
+<pre>
+<code class="batch"> 
+
+:: Test 1
+
+</code>
+</pre>
 </p>
 
 <br><br>
@@ -35,9 +33,13 @@
 <!-- 2. -->
 
 <p align=center>
-    ```batch
-    :: Test 2
-    ```
+<pre>
+<code class="batch"> 
+
+:: Test 2
+
+</code>
+</pre>
 </p>
 
 <br><br>
@@ -45,11 +47,15 @@
 <!-- 3. -->
 
 <p align=center>
-    ```batch
-    :: Test 3
-    ```
+<pre>
+<code class="batch"> 
+
+:: Test 3
+
+</code>
+</pre>
 </p>
 
 <br><br>
 
-<p align=center>Sorry for the lack of styling.<br>Read our <a href='https://tnyavnto.com/policy/' target='_blank'>privacy policy</a></p>
+<p align=center>Read our <a href='https://tnyavnto.com/policy/' target='_blank'>privacy policy</a></p>

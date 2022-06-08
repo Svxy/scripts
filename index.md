@@ -1,9 +1,3 @@
-<style>
-
-</style>
-
-<br><br>
-
 <h1 align=center>TnyavnTo - Scripts</h1>
 
 <br>
@@ -28,4 +22,4 @@
 
 <br><br>
 
-<p align=center>Sorry for the lack of styling.<br>Read our <a href='https://tnyavnto.com/policy/' target='_blank'>privacy policy</a></p>
+<p align=center>Read our <a href='https://tnyavnto.com/policy/' target='_blank'>privacy policy</a></p>
